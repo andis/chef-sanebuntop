@@ -1,0 +1,13 @@
+* chef-sanebuntop
+Sanitize your Ubuntu Desktop. A growing collection of chef recipes to tweak the default desktop.
+
+** Documentation
+
+Install chef client ([[https://github.com/sometimesfood/chef-admin-essentials/][c&p example]]) and run this if you trust me:
+
+: bash < <( curl -s https://github.com/andis/chef-sanebuntop/raw/master/contrib/deployme.sh )
+
+** Copyright
+Copyright (c) 2011 Andi Fink. See LICENSE for details.
+
+
