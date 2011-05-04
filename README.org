@@ -7,6 +7,10 @@ Install chef client ([[https://github.com/sometimesfood/chef-admin-essentials/][
 
 : bash < <( curl -s https://github.com/andis/chef-sanebuntop/raw/master/contrib/deployme.sh )
 
+** public TODO
+- gconftool -s /desktop/gnome/interface/gtk_key_theme Emacs -t string
+- completely remove pulseaudio (from an ubuntu install)
+
 ** Copyright
 Copyright (c) 2011 Andi Fink. See LICENSE for details.
 
